@@ -1,0 +1,81 @@
+
+.thumbs{
+	border-radius: 50%;
+	height:30px;
+	padding-right: 10px;
+	margin-top: 10px;
+	margin-left: 5px;
+
+}
+
+
+a{
+	text-decoration: none;
+	color:black;
+}
+.imgspan{
+	position: relative;
+	border-bottom:1px solid lightgrey;
+	width:250px;
+	height:45px;
+}
+.work{
+	position: absolute;
+	top:20px;
+	font-size: 14px;
+	text-transform: capitalize;
+
+	
+}
+#peeps{
+	font-size: 25px;
+	margin-left: 0px;
+	background: #81BC39;
+	width:250px;
+	border:1px solid #649C1A;
+	color:white;
+
+}
+p{
+	background: white;
+	margin:0;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-top:15px;
+	color:black;
+	border-bottom:1px solid grey;
+	box-sizing: border-box;
+	font-size: 12px;
+	text-transform:capitalize;
+}
+
+#email{
+	text-transform: none;
+}
+
+.i{
+	color:black;
+	padding-right: 10px;
+}
+
+#Contact{
+	background: #A7D076;
+	width:300px;
+	position: relative;
+}
+
+#mainImg{
+	border-radius: 50%;
+	margin-left: 86px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+}
+
+button{
+	position:absolute;
+	border:none;
+	background: #A7D076;
+	font-size: 20px;
+	outline:0;
+}
